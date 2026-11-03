@@ -1,0 +1,21 @@
+{"name":"it kanan","message":"kenapa ilang lagi haha","ip":"172.21.0.1","cid":"sr9yc7gzhzqi0unfy0htyitv","time":1793688991}
+{"name":"it kanan","message":"tete","ip":"172.21.0.1","cid":"sr9yc7gzhzqi0unfy0htyitv","time":1793688994}
+{"name":"samman kiri","message":"apakabar coy","ip":"172.21.0.1","cid":"a7d2819af68c485c8abae53f","time":1793689221}
+{"name":"samman kiri","message":"gelo :D jahaha","ip":"172.21.0.1","cid":"a7d2819af68c485c8abae53f","time":1793689247}
+{"name":"it kanan","message":"oy kumaha kabarna","ip":"172.21.0.1","cid":"sr9yc7gzhzqi0unfy0htyitv","time":1793689264}
+{"name":"python","message":"kamana wae euy","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793689743}
+{"name":"python it kanan","message":"sory sory","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793689788}
+{"name":"it kiri","message":"tes uji coba","ip":"172.21.0.1","cid":"behsam06ere0k1hfyzpq4kv1","time":1793689863}
+{"name":"SAMMAN","message":"TES","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793692423}
+{"name":"it kiri","message":"woy","ip":"172.21.0.1","cid":"behsam06ere0k1hfyzpq4kv1","time":1793693227}
+{"name":"it kiri","message":"aya naon woy","ip":"172.21.0.1","cid":"behsam06ere0k1hfyzpq4kv1","time":1793693247}
+{"name":"IT KANAN","message":"bisa aja bre","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793693261}
+{"name":"IT Kanan","message":"tes ting","ip":"172.21.0.1","cid":"b1100ee8bde949249cfc0152","time":1793693557}
+{"name":"IT KANAN","message":"coba ada suaranya ga","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793693569}
+{"name":"IT KANAN","message":"ah","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793693598}
+{"name":"IT Kanan","message":"ada coy","ip":"172.21.0.1","cid":"b1100ee8bde949249cfc0152","time":1793693614}
+{"name":"Sopir","message":"assalamualaikum","ip":"172.21.0.1","cid":"7kk5dx0uz8ekddpkupijn3fb","time":1793694182}
+{"name":"Sopir","message":"walaikumsalam","ip":"172.21.0.1","cid":"2cc7421ebd5241659db7e9ab","time":1793694252}
+{"name":"Poli THT","message":"testing","ip":"172.21.0.1","cid":"ik2mff6sihxlo1nec04ijl1x","time":1793695158}
+{"name":"Samman android","message":"Jadwal MJ","ip":"172.21.0.1","cid":"hl73azknveoz4o59ivbnd7av","time":1793696538}
+{"name":"IT KANAN","message":"euy kernaon euy","ip":"172.21.0.1","cid":"5b99831103b74f0785405929","time":1793700854}
